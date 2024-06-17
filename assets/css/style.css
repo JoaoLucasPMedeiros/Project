@@ -20,7 +20,7 @@ body {
     color: #DFDFDF; 
     background-color: black;
     height: 100vh;
-    background-image: url('./assets/img/profile_master.png');
+    background-image: url(assets/img/profile_master.png);
     background-size: contain; 
     background-position: center;
     background-repeat: no-repeat;
